@@ -72,14 +72,6 @@ npm run scss-compile
 
 「活版印字」主题整合了几个方便好用的功能，因此你可以使用主题目录下的 `_config.yml` 来随时进行定制。
 
-### 设置标题的正确姿势<sup>很重要</sup>
-
-「活版印字」主题提供了三个标题，它们分别是：`title`、`title_primary` 和 `title_secondary`。`title` 存在于 Hexo 根目录下的 `_config.yml` 中，而 `title_primary` 和 `title_secondary` 存在于主题目录下的 `_config.yml` 中。
-
-- `title` 将出现在所有 HTML 页的标题中（`<title>`）。
-- `title_primary` 为显示在网页中字号较大的标题（主标题）。
-- `title_secondary ` 为显示在网页中字号较小的标题（副标题）。
-
 ### 修订翻译
 
 提供本地化支持的翻译文件存储在 `themes/typography/languages` 中，你可以根据需要修改或是新增新的语言。
